@@ -64,6 +64,4 @@ Task Lists:
 - [ ] Watch CSE 140 and 140L lectures
 - [ ] Do CSE 158 assignment 1
 - [ ] Check mental health. If ok, continue. Else, decide which to drop
-- [ ] Hopefully pass this quarter   
-
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+- [ ] Hopefully pass this quarter  :+1: :shipit:
